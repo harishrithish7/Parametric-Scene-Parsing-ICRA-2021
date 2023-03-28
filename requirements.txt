@@ -1,0 +1,19 @@
+numpy==1.17.4
+pathlib2==2.3.5
+scipy==1.3.3
+tqdm==4.40.0
+pandas==0.25.3
+matplotlib==3.1.2
+Pillow==6.2.1
+jupyter==1.0.0
+ipython==7.10.0
+lxml==4.4.2
+torch==1.3.0+cu100
+torchvision==0.4.1+cu100
+sklearn==0.0
+opencv-python==4.1.2.30
+-e git+https://github.com/argoai/argoverse-api.git@652bb500eafd2b21a8a346a3b762c1114f4c314a#egg=argoverse
+imageio==2.6.1
+numba==0.48.0
+PyYAML==5.2
+pyproj==2.4.2.post1
